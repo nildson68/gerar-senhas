@@ -1,0 +1,42 @@
+{
+    "08527937824": {
+        "cpf": "08527937824",
+        "nome": "Nildson Borsato",
+        "data_nascimento": "14/06/2025",
+        "sexo": "Masculino",
+        "endereco": "Rua Ademar de Ponte 634",
+        "telefone": "16997364216",
+        "email": "nilborsato68@gmail.com",
+        "historico_medico": [
+            "Sem dados"
+        ],
+        "data_cadastro": "14/06/2025 15:01:15",
+        "data_atualizacao": "14/06/2025 15:01:15"
+    },
+    "09154497817": {
+        "cpf": "09154497817",
+        "nome": "Silvia Aparecida de Lima",
+        "data_nascimento": "14/06/2025",
+        "sexo": "Feminino",
+        "endereco": "Av Bruno Opice 42",
+        "telefone": "16997691662",
+        "email": "silviadelima_67@hotmail.com",
+        "historico_medico": [
+            "sem dados"
+        ],
+        "data_cadastro": "14/06/2025 15:29:08",
+        "data_atualizacao": "14/06/2025 15:29:08"
+    },
+    "12345678910": {
+        "cpf": "12345678910",
+        "nome": "Jeremias M. Silva",
+        "data_nascimento": "14/06/2025",
+        "sexo": "Masculino",
+        "endereco": "Rua Sete 45",
+        "telefone": "169998745222",
+        "email": "jeremias1970@gmail.com",
+        "historico_medico": [],
+        "data_cadastro": "14/06/2025 16:19:18",
+        "data_atualizacao": "14/06/2025 16:19:52"
+    }
+}

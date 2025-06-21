@@ -1,0 +1,47 @@
+[
+    {
+        "ISBN": "123456",
+        "Titulo": "Um dois três",
+        "Autor": "Ramon Suares",
+        "Editora": "Pergaminho",
+        "Páginas": "199",
+        "Ano": "1985",
+        "Gênero": "Ficção"
+    },
+    {
+        "ISBN": "987654",
+        "Titulo": "A arte de vencer",
+        "Autor": "Kate Perry",
+        "Editora": "ARX",
+        "Páginas": "325",
+        "Ano": "2018",
+        "Gênero": "Ficção"
+    },
+    {
+        "ISBN": "741852",
+        "Titulo": "Pig baby",
+        "Autor": "Arlindo Barnabé",
+        "Editora": "Pegadas",
+        "Páginas": "89",
+        "Ano": "2010",
+        "Gênero": "Infantil"
+    },
+    {
+        "ISBN": "963258",
+        "Titulo": "Como empreender",
+        "Autor": "James Lira",
+        "Editora": "Append",
+        "Páginas": "244",
+        "Ano": "2010",
+        "Gênero": "Educação"
+    },
+    {
+        "ISBN": "753951",
+        "Titulo": "Empresas campeãs",
+        "Autor": "Carol Fernandes",
+        "Editora": "Aprendiz",
+        "Páginas": "324",
+        "Ano": "2015",
+        "Gênero": "Educação"
+    }
+]

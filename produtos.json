@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": "123",
+        "produto": "Café 500mg",
+        "tipo": "Alimento",
+        "preco": 32.0
+    },
+    {
+        "codigo": "121",
+        "produto": "Macarrão",
+        "tipo": "Alimento",
+        "preco": 3.9
+    },
+    {
+        "codigo": "122",
+        "produto": "Arroz 5kg",
+        "tipo": "Alimento",
+        "preco": 29.0
+    }
+]

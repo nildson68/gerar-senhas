@@ -1,0 +1,12 @@
+[
+    {
+        "codigo": "123",
+        "nome": "José da Silva",
+        "cargo": "Analista",
+        "setor": "Tecnologia",
+        "data_nascimento": "10/10/1985",
+        "data_admissao": "05/02/2020",
+        "salario": 6500.0,
+        "dependentes": []
+    }
+]
